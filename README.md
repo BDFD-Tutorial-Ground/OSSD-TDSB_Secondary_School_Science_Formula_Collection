@@ -2,7 +2,7 @@
  * @Date         : 2025-06-20 13:19:11
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-06-22 18:16:34
+ * @LastEditTime : 2025-06-22 18:19:18
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -10,27 +10,18 @@
 -->
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/TDSB-OSSD_Science_Formula_Collection.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/TDSB-OSSD_Science_Formula_Collection?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/TDSB-OSSD_Science_Formula_Collection?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/BDFD-Tutorial-Ground/TDSB-OSSD_Secondary_School_Science_Formula_Collection.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-Tutorial-Ground/TDSB-OSSD_Secondary_School_Science_Formula_Collection?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/TDSB-OSSD_Secondary_School_Science_Formula_Collection?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>TDSB Secondary High School Science Course Formula Sheet Collection
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>TDSB Secondary School Science Course Formula Sheet Collection
 
 ## About This Course/Certificate
 
-![commits](https://img.shields.io/github/last-commit/BDFD-LearningGround/Cousera_Google-Data-Analytics-Professional-Certificate?label=Last%20Commit%20)
+![commits](https://img.shields.io/github/last-commit/BDFD-Tutorial-Ground/TDSB-OSSD_Secondary_School_Science_Formula_Collection?label=Last%20Commit%20)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffffff&color=316999"/>  
-  <img src="https://img.shields.io/badge/pandas-%23130754.svg?style=plastic&logo=pandas&logoColor=white&color=4E447F"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white&color=416572"/>
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white&color=3F4F75">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F89939.svg?style=plastic&logo=scikit-learn&logoColor=white&color=FCA043"/>
-  <img src="https://img.shields.io/badge/Jupyter-%23F37725.svg?style=plastic&logo=jupyter&logoColor=white"/>
-</p> 
-An introductory course in physics for students intending to concentrate their future studies in the physical sciences, optometry, or mathematics; includes vectors (dot and cross products), particle kinematics and dynamics, forces in nature, work and energy, conservation of energy and linear momentum, rotational kinematics and dynamics, and conservation of angular momentum.
+Common Formula Sheet for Toronto TDSB-OSSD Secodary School Science Course. Also included a few resources on side that I found helpful.
 
 **Course prerequisite**
 
