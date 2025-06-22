@@ -2,7 +2,7 @@
  * @Date         : 2025-06-20 13:19:11
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-06-22 18:19:18
+ * @LastEditTime : 2025-06-22 18:29:29
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -25,57 +25,30 @@ Common Formula Sheet for Toronto TDSB-OSSD Secodary School Science Course. Also 
 
 **Course prerequisite**
 
-- [x] **C1-4U Calculus and Vectors**
-- [x] **C2-4U Advanced Functions**
-- [x] **C3-4U Physics**
-      [Note: Successful completion of 4U Calculus and Vectors, 4U Advanced Functions and 4U Physics is required. Offered: F, also offered online: W]
+- [x] **None**
 
 **Course Content**
 
-- [ ] **P1-Textbook(Publisher/Year)**
-- [ ] **P2-Solution Mannual(Publisher/Year)**
-- [ ] **P3-Lecture Handout(Self Prepared for Publisher/Year)**
-- [ ] **P4-Project Plan(Self Prepare)**
-- [ ] **P5-Unit Test Review Question(Publisher/Year)**
-- [ ] **P6-Exam Review Question(Publisher/Year)**
+- [x] **1.0.1-Secondary School Math Fundamental(Gr.9-12)**
+- [x] **1.0.2-Secondary School Math Fundamental(Gr.9-12)**
+- [x] **1.1.1-MPM1D Formula Sheet**
+- [x] **1.2.1-Math Geometry-Common Auxiliary Line**
+- [x] **2.1.3-SPH3U Formula Sheet**
 
-## Course Learn Path - Modules
-
-The courses enlisted as follows:
-
-- [ ] **M1-Kinematics**
-- [ ] **M2-Dynamics**
-- [ ] **M3-Energy**
-- [ ] **M4-Linear Momentum**
-- [ ] **M5-Rotational Motion**
-- [ ] **M6-Angular Momentum**
-
-## Course Description: 1 Course
-
-University Enrolled : University of Waterloo  
-<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Waterloo.png" alt="bdfd" />
+Course Enrolled : OSSD-TDSB  
+<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/Toronto_District_School_Board_Logo.png" alt="tdsb logo" />
 
 Main Instructor:
-
-1. Lecture Facilitator - Prof. Richard Epp
-2. Workshop Facilitator - Prof. Karen Cummings
+Secondary School Teacher
 
 ## Applied Learning Project
 
-**Textbooks:**
-
-1. University Physics, 15th Ed. By Young and Freedman
-
 **Add-on Resources:**
 
-1. Mastering Physics on-line homework system
-2. Scientific Calculator
-
-**Projects:**
-
-#### Useful Resources
-
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+1. Scientific Calculator
+2. Microsoft Excel
+3. Desmos/GeoGebra(Graphing App)
+4. Wolfram Alpha(Solution Helper)
 
 <div align="center">
 
@@ -90,5 +63,3 @@ Main Instructor:
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/bdfd)
 
 </div>
-
-<!-- ![Certificate](https://cdn.jsdelivr.net/gh/BDFD-LearningGround/Certificate-Folder/6.0-Others/Course-Version%20Control%20with%20Git/Course-Version%20Control%20with%20Git.jpeg) -->
