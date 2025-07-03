@@ -2,7 +2,7 @@
  * @Date         : 2025-06-20 13:19:11
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-06-22 18:31:53
+ * @LastEditTime : 2025-07-02 20:03:30
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -34,6 +34,8 @@ Common Formula Sheet for Toronto TDSB-OSSD Secodary School Science Course. Also 
 - [x] **1.1.1-MPM1D Formula Sheet**
 - [x] **1.2.1-Math Geometry-Common Auxiliary Line**
 - [x] **2.1.3-SPH3U Formula Sheet**
+- [x] **9.0-Prepartion for Quiz, Test and Exam**
+- [x] **9.1-Learning Habits and Strategies**
 
 Course Enrolled : OSSD-TDSB  
 <img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/Toronto_District_School_Board_Logo.png" alt="tdsb logo" />
